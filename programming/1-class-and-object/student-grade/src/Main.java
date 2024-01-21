@@ -33,5 +33,7 @@ public class Main {
         student.calculateGrade();
         student.printApproval();
 
+        sc.close();
+
     }
 }

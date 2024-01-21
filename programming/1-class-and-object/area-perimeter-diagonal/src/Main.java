@@ -23,5 +23,7 @@ public class Main {
         System.out.printf("PERIMETER = %.2f\n", rectangle.perimeter());
         System.out.printf("DIAGONAL = %.2f\n", rectangle.diagonal());
 
+        sc.close();
+
     }
 }

@@ -25,5 +25,7 @@ public class Main {
 
         System.out.printf("\nAmount to be paid in R$ = %.2f", amount);
 
+        sc.close();
+
     }
 }

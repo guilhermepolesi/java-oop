@@ -32,5 +32,7 @@ public class Main {
 
         System.out.printf("\nUpdated data: %s, $ %.2f", employee.name, employee.netSalary());
 
+        sc.close();
+
     }
 }
